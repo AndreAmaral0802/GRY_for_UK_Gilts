@@ -10,4 +10,4 @@ HPR (Holding Period of Return)
 
 Annualised gain/loss = HPR / Years to maturity
 
-GRY = Flat Yield +- Annualised gain/loss.
+GRY = Flat Yield +- Annualised gain/loss. In addition, I coded the price sensitivity measure for a 1% change on interest rate. 
